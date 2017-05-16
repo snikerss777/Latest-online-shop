@@ -1,0 +1,78 @@
+.form-control{
+	width: 60px;
+}
+
+.imageTd{
+	max-width: 100px;
+}
+
+img{
+	height: 80px;
+}
+
+.glyphicon{
+	color:black;
+}
+
+table a:hover{
+	color: red;
+}
+
+.paidContainer{
+	text-align: right;
+}
+
+.buttonMakeAnOrder{
+	margin-top: 15px;
+	background-color:red;
+	border:none;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border-radius: 0px;
+	font-weight: bold;
+	border: 1px solid red;
+	margin-bottom: 10px;
+	text-decoration: none!important;
+	color:white;
+}
+
+.buttonMakeAnOrder:hover{
+	background-color: white;
+	color: #383838;
+	border: 1px solid black;
+}
+
+.buttonMakeAnOrder:focus {
+	background-color: white;
+	color: #383838;
+	border: 1px solid black;
+}
+
+
+.radio label{
+	width: 100%
+}
+.radio span{
+	float: right;
+	font-weight: bold;
+}
+
+
+td{
+	vertical-align: middle!important;
+}
+
+
+/*transaction styles*/
+
+.transactionShowUl{
+	list-style-type: none;
+	font-size: 15px;
+}
+
+.tableRow{
+	margin-top: 30px;
+}
+
